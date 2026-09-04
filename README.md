@@ -249,3 +249,8 @@ Read the detailed assignment document before coding:
 - [Coding Assignment 2: TinyLang Semantic Analysis and LLVM IR](assignment2/INTRO.md)
 
 Each document explains the relevant compiler background, TinyLang rules, required functions, examples, testing strategy, common mistakes, and completion checklist.
+
+
+# 5. Why LLVM? 
+[Why We Use LLVM](https://github.com/apace-lab/COSC4360/blob/main/LLVM.md). 
+[My First Language Frontend with LLVM Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html#my-first-language-frontend-with-llvmtutorial).
