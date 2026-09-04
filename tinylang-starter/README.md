@@ -78,7 +78,7 @@ tinylang-starter/
 
 ## Coding Assignment 1
 
-The detailed instruction is at [](). 
+The detailed instruction is at [Coding Assignment 1](https://github.com/apace-lab/COSC4360/blob/main/coding-1/CODING1.md). 
 You primarily edit `src/Lexer.cpp` and `src/Parser.cpp` and 
 look for:
 `TODO(A1)` to fill in your code. 
@@ -92,7 +92,7 @@ source code -> tokens -> AST
 
 ## Coding Assignment 2
 
-The detailed instruction is at [](). 
+The detailed instruction is at [Coding Assignment 2](https://github.com/apace-lab/COSC4360/blob/main/coding-2/CODING2.md). 
 You primarily edit `src/Semantic.cpp` and `src/CodeGen.cpp` and 
 look for:
 `TODO(A2)` to fill in your code. 
